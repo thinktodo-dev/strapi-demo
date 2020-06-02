@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_multilingual_multilingual_long_texts",
+  "info": {
+    "name": "multilingual_long_text",
+    "icon": "audio-description"
+  },
+  "options": {},
+  "attributes": {
+    "en": {
+      "type": "text"
+    },
+    "de": {
+      "type": "text"
+    },
+    "es": {
+      "type": "text"
+    }
+  }
+}

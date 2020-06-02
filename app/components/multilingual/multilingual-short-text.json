@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_multilingual_multilingual_short_texts",
+  "info": {
+    "name": "multilingual_short_text",
+    "icon": "closed-captioning"
+  },
+  "options": {},
+  "attributes": {
+    "en": {
+      "type": "string"
+    },
+    "de": {
+      "type": "string"
+    },
+    "es": {
+      "type": "string"
+    }
+  }
+}
