@@ -40,9 +40,13 @@ password: admin123
  
 ## Time Tracking
 
-  - Day 1 (01/06/2020): Read document and install Strapi with MariaDB via Docker (Task 1)
-  
-  - Day 2 (02/06/2020): Finish task 2, 3, 4, 5 and push code to Github
-  
-  - Day 3 (03/06/2020): Finish task 6 and write README for project - just in morning
+  1. Day 1 (01/06/2020):
+     - Task 1: Read document and install Strapi with MariaDB via Docker (6 hours)
+     - Task 2: Create one content type (collection type) in Strapi named Activities (1 hours)
+     - Task 3: Activities content type should have the below fields (Title, Sub-Title, Description, Pictures, Price) (1 hours)
+     
+  2. Day 2 (02/06/2020):
+     - Task 4: Each field in the Activities content type should be multilingual (EN, DE, ES) (2 hours)
+     - Task 5: Create a custom endpoint PUT /activities_price for Activities (3 hours)
+     - Task 6: Configure a plugin to send automatic email to `info@mallorcard.es` when create new Activities (3 hours)
   
